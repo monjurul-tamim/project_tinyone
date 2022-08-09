@@ -1,0 +1,105 @@
+ Fonts--- 
+ 		PTsans regular 400
+ 		pTsans bold  700
+
+font-family: 'PT Sans', sans-serif;
+
+
+ color--
+     black-- #010101
+     ash---- #898989
+     yellow- #fcdb00
+
+
+ conmmon code--
+
+   		font-family: PTsans regular
+   		fw--- 400
+   		fz----16px
+
+
+
+responsive  
+
+xxl/xl/l    md      sm/col
+
+
+header--------------------------
+
+			xxl/xl/l      md        sm/col
+	fz----    20		  20			  18
+	padd---   30, 0		10,0,0		10,0,0
+
+slider----------------------------------
+			xxl/xl/l      md         sm/col
+fz-
+   h1			38         38          	30	
+   h2     24		     24			      22
+   p 			16	       16		      	16	
+   icon   42		     42           35		
+pa-
+  slider  100        100          60
+  ind		  -80	       -80         -55
+
+margin-
+	s-text		50         50            0
+	h2	  		20		     20			      10
+	p 		  	30		     20           20
+	icon      30         30           20
+
+button
+            15         15           13
+
+
+feature---------------------------------
+        xxl/xl/l       md         sm/col
+pt---   100            80          50
+pb---   120            100         70
+
+fz-h1   32             32          25     
+fz-p    20             20          17
+
+
+
+single---
+ mb---  70             50
+
+
+
+
+
+
+
+
+
+
+
+
+fontawesome
+
+mobail--  <i class="fa-solid fa-mobile-screen"></i>
+
+lay psd-- <i class="fa-regular fa-lemon"></i>
+
+folder -- <i class="fa-regular fa-folder"></i>
+html--    <i class="fa-regular fa-code"></i>
+email--   <i class="fa-regular fa-envelope"></i>
+award---- <i class="fa-solid fa-award"></i>
+
+facebook  <i class="fa-brands fa-square-facebook"></i>
+google+   <i class="fa-brands fa-square-google-plus"></i>
+pinterest  <i class="fa-brands fa-square-pinterest"></i>
+twitter   <i class="fa-brands fa-square-twitter"></i>
+
+
+
+
+
+
+
+
+
+
+
+
+       

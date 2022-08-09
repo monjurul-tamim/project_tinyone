@@ -1,0 +1,181 @@
+/*common code start*/
+body{
+    font-family: 'PT Sans', sans-serif;
+	font-size:16px;
+	font-weight:400;
+	color:#898989;
+}
+/*common code end*/
+/*header start*/
+header{
+	padding: 20px 0;
+	background-color: #fcdb00;
+}
+.c_nav{}
+.logo{}
+
+.menu{}
+.menu ul li a{
+	padding: 0 50px !important;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 22px;
+	font-weight: 700;
+	color:#010101 !important;
+}
+.menu ul li a:hover{
+	color:white !important;
+}
+.menu ul li:nth-child(3) a{
+	padding-right: 0 !important;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	background-color:#fcdb00;
+	padding-bottom: 100px;
+}
+.c_indicator{
+    bottom: -80px;
+}
+.c_indicator [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.s_text{
+	margin-top: 50px;
+}
+.s_text h1{
+	font-size: 38px;
+    font-weight: 700;
+    color: #010101;
+}
+.s_text h2{
+	margin: 20px 0;
+	font-size: 24px;
+    font-weight: 400;
+    color: #313841;
+}
+.s_text p{
+	margin-bottom: 30px;
+	font-size: 17px;
+    color: #555555;
+}
+.s_icon{}
+.s_icon ul li{
+	margin-right: 30px !important;
+}
+.s_icon ul li i{
+	font-size: 42px;
+	color:#010101; 
+	transition: 0.4s;
+}
+.s_icon ul li i:hover{
+	transform: scale(0.8);
+}
+.s_img{}
+.s_img img{}
+
+/*slider end*/
+/*feature start*/
+.feature{
+	padding-top: 100px;
+	padding-bottom: 120px;
+}
+
+.f_title{}
+.f_t_h1{
+	margin-bottom: 15px;
+	font-size: 32px;
+	font-weight: 700;
+	color:#010101;
+}
+.f_t_p{
+	font-size: 20px;
+	color:#313841;
+	line-height: 28px;
+}
+
+
+.f_content{
+	margin-top: 70px;
+}
+.f_single{
+	margin-bottom: 70px;
+}
+.f_s_4{
+	margin-bottom: 0;
+}
+.f_s_5{
+	margin-bottom: 0;
+}
+.f_s_6{
+	margin-bottom: 0;
+}
+.f_icom {
+    margin-top: -6px;
+    font-size: 48px;
+    color: #010101;
+}
+
+.f_c_h2{
+	font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+}
+.f_c_p{}
+/*feature end*/
+/*about us start*/
+.about{
+	padding-top: 100px;
+	padding-bottom: 120px;
+	background-color: #010101;
+}
+.a_h1{
+	color: #fcdb00;
+}
+.a_p{
+	color: #898989;
+}
+
+.a_2ndrow{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.a_input{
+	font-family: 'PT Sans', sans-serif !important;
+	font-size: 16px;
+	font-weight: 400;
+	color:#898989 !important;
+}
+.a_but{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 700 !important;
+
+}
+
+.a_icon{}
+.a_icon ul li{
+	margin-right: 25px !important;
+}
+.a_icon ul li i{
+	font-size: 42px;
+	color:#fcdb00;
+}
+
+/*about us end*/
+/*footer start*/
+footer{
+	padding-bottom: 130px;
+	background-color: #010101;
+}
+
+.f_list{}
+.f_list ul li{}
+.f_list ul li a{
+	color:#ffffff;
+	text-decoration: none;
+
+}
+
+/*footer end*/
